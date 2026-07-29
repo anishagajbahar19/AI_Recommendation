@@ -1,4 +1,4 @@
-# AI_Recommendation
+# DecodeLabs Industrial Training Project 3
 
 # 🎯 AI Course Recommendation System
 
